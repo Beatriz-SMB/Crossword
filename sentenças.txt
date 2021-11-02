@@ -1,0 +1,17 @@
+1. Juntamente com HTML e CSS, o _____________ é uma das três principais tecnologias da World Wide Web.
+2. O _______________ IDE permite o desenvolvimento rápido e fácil de aplicações desktop Java. 
+3. _______________ é um mecanismo para adicionar estilo (cores, fontes, espaçamento, etc.) a um documento web.
+4. A linguagem _______________ foi concebida em 24 de fevereiro de 1993 por Yukihiro Matsumoto.
+5. ____________ foi feita com base na linguagem ABC, possui parte da sintaxe derivada do C, compreensão de listas, funções anonimas e função map de Haskell.
+6. O ____________ usa "Marcação" para anotar texto, imagem e outros conteúdos para exibição em um navegador da Web. 
+7. _____________ é uma empresa americana de plataforma de software de baixo código que fornece ferramentas para construir, testar, implantar e iterar aplicativos.
+8. A partir de 2002 a linguagem ______________ mudou em vários aspectos ganhando muitos recursos, porém continuou com a mesma sintaxe.
+
+1. JavaScript
+2. NetBeans
+3. CSS
+4. Ruby
+5. Python
+6. HTML
+7. Mendix
+8. Visual Basic
